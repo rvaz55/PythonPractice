@@ -2,7 +2,7 @@ def solution(a):
 
     #Start at -1 index
     indexOfMinimum = -1
-    #min-sum can be an infinite float
+    #min-sum can be an infinite float epjwpe
     minimalSum = float('inf')
 
     #len() returns the length of an array; counting starts at 1 not at 0
